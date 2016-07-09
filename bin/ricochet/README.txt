@@ -1,3 +1,8 @@
+If you use the code in this folder, please cite: 
+Derry Tanti Wijaya, Stéphane Bressan:
+Ricochet: A Family of Unconstrained Algorithms for Graph Clustering. DASFAA 2009: 153-167
+
+
 This folder contains
 
 OCR.java which is the program for Ordered Concurrent Rippling clustering algorithm
