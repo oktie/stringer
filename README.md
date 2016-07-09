@@ -8,7 +8,7 @@ The goal of the project was to implement and experimentally evaluate the effecti
 
 The code is made available under the MIT license. We have tried our best to remove any code that is not developed as a part of the STRINGER project (or copied from other projects) but given that many years have passed since the code's active development, we strongly recommend that you carefully check all the code for other copyright notices or proprietary algorithms or code before relying on it for commercial purposes.
 
-The following articles describe the details of some the algorithms implemented in this code, along with the results of extensive experiment evaluation of the algorithms:
+The following articles describe the details of some the algorithms implemented in this code, along with the results of extensive experimental evaluation of the algorithms:
 
 * Oktie Hassanzadeh, Fei Chiang, Renée J. Miller, Hyun Chul Lee: Framework for Evaluating Clustering Algorithms in Duplicate Detection. PVLDB 2(1): 1282-1293 (2009). http://www.vldb.org/pvldb/2/vldb09-1025.pdf
 * Oktie Hassanzadeh, Renée J. Miller: Creating probabilistic databases from duplicated data. VLDB J. 18(5): 1141-1166 (2009)
