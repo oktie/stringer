@@ -1,0 +1,2 @@
+﻿SELECT c.tid, `string`, score FROM cnamesu.results r, cnamesu.cu1 c
+where c.tid = r.tid

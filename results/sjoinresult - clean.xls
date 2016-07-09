@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Worksheet ss:Name="Table1">
+  <Table>
+   <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">simfunc</Data></Cell>
+    <Cell><Data ss:Type="String">thr</Data></Cell>
+    <Cell><Data ss:Type="String">avg(pr)</Data></Cell>
+    <Cell><Data ss:Type="String">avg(re)</Data></Cell>
+    <Cell><Data ss:Type="String">avg(f1)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.13639877373099</Data></Cell>
+    <Cell><Data ss:Type="Number">0.97175306626592</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23916441647505</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">0.28641044070424</Data></Cell>
+    <Cell><Data ss:Type="Number">0.91922631997811</Data></Cell>
+    <Cell><Data ss:Type="Number">0.43594399268898</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.46650608525933</Data></Cell>
+    <Cell><Data ss:Type="Number">0.81632396235331</Data></Cell>
+    <Cell><Data ss:Type="Number">0.59207550650415</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">0.66946358013772</Data></Cell>
+    <Cell><Data ss:Type="Number">0.72162741350751</Data></Cell>
+    <Cell><Data ss:Type="Number">0.69236214019122</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">0.77583908578587</Data></Cell>
+    <Cell><Data ss:Type="Number">0.59400084057008</Data></Cell>
+    <Cell><Data ss:Type="Number">0.66997430553371</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">0.82982388777015</Data></Cell>
+    <Cell><Data ss:Type="Number">0.44888034737204</Data></Cell>
+    <Cell><Data ss:Type="Number">0.57991732940397</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">0.93690278942194</Data></Cell>
+    <Cell><Data ss:Type="Number">0.32795448001621</Data></Cell>
+    <Cell><Data ss:Type="Number">0.48387278332144</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98486802284271</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21185050241653</Data></Cell>
+    <Cell><Data ss:Type="Number">0.34758730390921</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98156690100607</Data></Cell>
+    <Cell><Data ss:Type="Number">0.13537964664036</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23721884998233</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">0.97190178278279</Data></Cell>
+    <Cell><Data ss:Type="Number">0.066665246387766</Data></Cell>
+    <Cell><Data ss:Type="Number">0.12449053552387</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.036025311046976</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0694171885071</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.020418255859682</Data></Cell>
+    <Cell><Data ss:Type="Number">0.03988719505765</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0099113625876132</Data></Cell>
+    <Cell><Data ss:Type="Number">0.019549421351713</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0035897908405465</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0071288461434644</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0029570526231582</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0058796998461621</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5674963947583e-005</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1348945107997e-005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">bm25</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5674963947583e-005</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1348945107997e-005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.006812496453006</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.013532785668814</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.040598397133573</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99900249478862</Data></Cell>
+    <Cell><Data ss:Type="Number">0.07802585067632</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">10.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.17807088847985</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9904509650779</Data></Cell>
+    <Cell><Data ss:Type="Number">0.30160894272816</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.38635979915459</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9488229743663</Data></Cell>
+    <Cell><Data ss:Type="Number">0.54728547459341</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">17.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6638637224235</Data></Cell>
+    <Cell><Data ss:Type="Number">0.85267600831471</Data></Cell>
+    <Cell><Data ss:Type="Number">0.74424026157308</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="Number">0.83580572131376</Data></Cell>
+    <Cell><Data ss:Type="Number">0.723105574724</Data></Cell>
+    <Cell><Data ss:Type="Number">0.77281607369423</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">24.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.96261831835123</Data></Cell>
+    <Cell><Data ss:Type="Number">0.54542564664968</Data></Cell>
+    <Cell><Data ss:Type="Number">0.69514536303588</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98916174766988</Data></Cell>
+    <Cell><Data ss:Type="Number">0.36737421045692</Data></Cell>
+    <Cell><Data ss:Type="Number">0.53426796873599</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">31.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98715175189091</Data></Cell>
+    <Cell><Data ss:Type="Number">0.20870394774616</Data></Cell>
+    <Cell><Data ss:Type="Number">0.34350379288959</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98905375820968</Data></Cell>
+    <Cell><Data ss:Type="Number">0.10646154159444</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19068381649798</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">38.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.046200236911013</Data></Cell>
+    <Cell><Data ss:Type="Number">0.088043043532485</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.021923146755092</Data></Cell>
+    <Cell><Data ss:Type="Number">0.042722540527276</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">45.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0062317883756903</Data></Cell>
+    <Cell><Data ss:Type="Number">0.01237284458657</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0020677989122341</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0041188208437387</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">hmm</Data></Cell>
+    <Cell><Data ss:Type="Number">52.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0020677989122341</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0041188208437387</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.075420575289221</Data></Cell>
+    <Cell><Data ss:Type="Number">0.91625006903568</Data></Cell>
+    <Cell><Data ss:Type="Number">0.13895544633551</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.15414145558144</Data></Cell>
+    <Cell><Data ss:Type="Number">0.91068259290182</Data></Cell>
+    <Cell><Data ss:Type="Number">0.26363427489209</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25213996603166</Data></Cell>
+    <Cell><Data ss:Type="Number">0.90220089339167</Data></Cell>
+    <Cell><Data ss:Type="Number">0.39219211251258</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3365264871899</Data></Cell>
+    <Cell><Data ss:Type="Number">0.89165714642333</Data></Cell>
+    <Cell><Data ss:Type="Number">0.48575799863832</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.42654916323191</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8732430471279</Data></Cell>
+    <Cell><Data ss:Type="Number">0.57029197251737</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.54496362604681</Data></Cell>
+    <Cell><Data ss:Type="Number">0.85242640014163</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6618136676321</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.35</Data></Cell>
+    <Cell><Data ss:Type="Number">0.68412998779641</Data></Cell>
+    <Cell><Data ss:Type="Number">0.83011630619525</Data></Cell>
+    <Cell><Data ss:Type="Number">0.74603800662889</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.806372313047</Data></Cell>
+    <Cell><Data ss:Type="Number">0.80874245546797</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8032251927052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.45</Data></Cell>
+    <Cell><Data ss:Type="Number">0.87730660938778</Data></Cell>
+    <Cell><Data ss:Type="Number">0.78634533593169</Data></Cell>
+    <Cell><Data ss:Type="Number">0.82441746394669</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.93712639308342</Data></Cell>
+    <Cell><Data ss:Type="Number">0.77094935074426</Data></Cell>
+    <Cell><Data ss:Type="Number">0.84133771168395</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.55</Data></Cell>
+    <Cell><Data ss:Type="Number">0.97422733328288</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75794318477808</Data></Cell>
+    <Cell><Data ss:Type="Number">0.84817946577902</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98416941234176</Data></Cell>
+    <Cell><Data ss:Type="Number">0.73442747390936</Data></Cell>
+    <Cell><Data ss:Type="Number">0.83572667158305</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.65</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99043790261463</Data></Cell>
+    <Cell><Data ss:Type="Number">0.71879506793387</Data></Cell>
+    <Cell><Data ss:Type="Number">0.82629332528192</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99392435286182</Data></Cell>
+    <Cell><Data ss:Type="Number">0.70633896356937</Data></Cell>
+    <Cell><Data ss:Type="Number">0.81835559357315</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99910061087431</Data></Cell>
+    <Cell><Data ss:Type="Number">0.69796420743627</Data></Cell>
+    <Cell><Data ss:Type="Number">0.81302647746613</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99997141550423</Data></Cell>
+    <Cell><Data ss:Type="Number">0.69372753563434</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8104002777198</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99997121639514</Data></Cell>
+    <Cell><Data ss:Type="Number">0.69012076170645</Data></Cell>
+    <Cell><Data ss:Type="Number">0.80780102807623</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99997066244206</Data></Cell>
+    <Cell><Data ss:Type="Number">0.68296145164916</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8022615809813</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.95</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6808723678536</Data></Cell>
+    <Cell><Data ss:Type="Number">0.80064715793815</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.027894766093093</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99995012297025</Data></Cell>
+    <Cell><Data ss:Type="Number">0.054274900498996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16092028264054</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99876879639836</Data></Cell>
+    <Cell><Data ss:Type="Number">0.27702766198846</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.39798046260151</Data></Cell>
+    <Cell><Data ss:Type="Number">0.993406461892</Data></Cell>
+    <Cell><Data ss:Type="Number">0.56678569563017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.67673512971969</Data></Cell>
+    <Cell><Data ss:Type="Number">0.97445660886267</Data></Cell>
+    <Cell><Data ss:Type="Number">0.79644068807697</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.90341980990465</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9317273991263</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9157003559024</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98266591859527</Data></Cell>
+    <Cell><Data ss:Type="Number">0.86613382640236</Data></Cell>
+    <Cell><Data ss:Type="Number">0.91879742281035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9968310082162</Data></Cell>
+    <Cell><Data ss:Type="Number">0.78195051201044</Data></Cell>
+    <Cell><Data ss:Type="Number">0.87260578118181</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.72143561581095</Data></Cell>
+    <Cell><Data ss:Type="Number">0.83132429576107</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.69024911970693</Data></Cell>
+    <Cell><Data ss:Type="Number">0.80748819682055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">clean</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.68069994325018</Data></Cell>
+    <Cell><Data ss:Type="Number">0.80050006360502</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,3 @@
+﻿SELECT p.tid, p.id, c.`string`, p.prob FROM probs p, cnamesu.cu5 c
+where c.tid = p.tid
+order by id

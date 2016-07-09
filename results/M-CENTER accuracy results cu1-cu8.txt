@@ -1,0 +1,1432 @@
+*********************
+Table: cu1
+*********************
+Tuples in clusters Count: 5246
+Cluster Count: 1
+cu1 - Thr: 0.1
+ Number of Clusters: 1
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.0020
+ Average CPrecision for all records: 1.0
+ Average Precision for all records: 0.0025269148296492763
+ Average Recall for all records: 1.0
+ Average F1 for all records: 0.005041091251058638
+
+Tuples in clusters Count: 7136
+Cluster Count: 20
+cu1 - Thr: 0.15000000000000002
+ Number of Clusters: 20
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.0363732870614503
+ Average CPrecision for all records: 0.9093321765362575
+ Average Precision for all records: 0.03948369148268531
+ Average Recall for all records: 0.7226458253907739
+ Average F1 for all records: 0.07487631482384181
+
+Tuples in clusters Count: 6295
+Cluster Count: 228
+cu1 - Thr: 0.2
+ Number of Clusters: 228
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.3748250631680155
+ Average CPrecision for all records: 0.8219847876491567
+ Average Precision for all records: 0.3397712713741243
+ Average Recall for all records: 0.660884483415936
+ Average F1 for all records: 0.44880481641516146
+
+Tuples in clusters Count: 5492
+Cluster Count: 692
+cu1 - Thr: 0.25
+ Number of Clusters: 692
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.5558335976628883
+ Average CPrecision for all records: 0.7692736991654374
+ Average Precision for all records: 0.5972187278443463
+ Average Recall for all records: 0.7723980175371712
+ Average F1 for all records: 0.6736053176606691
+
+Tuples in clusters Count: 5327
+Cluster Count: 1281
+cu1 - Thr: 0.3
+ Number of Clusters: 1281
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.2550529233534362
+ Average CPrecision for all records: 0.6534455896315036
+ Average Precision for all records: 0.7616271193358951
+ Average Recall for all records: 0.7662981319100267
+ Average F1 for all records: 0.763955485758478
+
+Tuples in clusters Count: 5258
+Cluster Count: 2046
+cu1 - Thr: 0.35
+ Number of Clusters: 2046
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.11368799983706866
+ Average CPrecision for all records: 0.465211295333285
+ Average Precision for all records: 0.8507268280403579
+ Average Recall for all records: 0.6446816622188334
+ Average F1 for all records: 0.7335092573938161
+
+Tuples in clusters Count: 5249
+Cluster Count: 2813
+cu1 - Thr: 0.39999999999999997
+ Number of Clusters: 2813
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.05429143809025727
+ Average CPrecision for all records: 0.3054436306957874
+ Average Precision for all records: 0.9087814439831988
+ Average Recall for all records: 0.5261151353412123
+ Average F1 for all records: 0.6664224854754575
+
+Tuples in clusters Count: 5248
+Cluster Count: 3491
+cu1 - Thr: 0.44999999999999996
+ Number of Clusters: 3491
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.02621694941888572
+ Average CPrecision for all records: 0.18304674084266012
+ Average Precision for all records: 0.9435223885608442
+ Average Recall for all records: 0.40850171559283266
+ Average F1 for all records: 0.570153317893129
+
+Tuples in clusters Count: 5246
+Cluster Count: 3986
+cu1 - Thr: 0.49999999999999994
+ Number of Clusters: 3986
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.014657058185608083
+ Average CPrecision for all records: 0.11684606785566765
+ Average Precision for all records: 0.9544276645115379
+ Average Recall for all records: 0.32157834540602365
+ Average F1 for all records: 0.48106868898397287
+
+Tuples in clusters Count: 5246
+Cluster Count: 4346
+cu1 - Thr: 0.5499999999999999
+ Number of Clusters: 4346
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.008654221980792883
+ Average CPrecision for all records: 0.07522249745705173
+ Average Precision for all records: 0.9783480535434403
+ Average Recall for all records: 0.25943576057948914
+ Average F1 for all records: 0.41011761260160967
+
+Tuples in clusters Count: 5246
+Cluster Count: 4539
+cu1 - Thr: 0.6
+ Number of Clusters: 4539
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.006253634807670139
+ Average CPrecision for all records: 0.056770496784029525
+ Average Precision for all records: 0.990468928707587
+ Average Recall for all records: 0.22626763248189097
+ Average F1 for all records: 0.3683805791558532
+
+Tuples in clusters Count: 5246
+Cluster Count: 4661
+cu1 - Thr: 0.65
+ Number of Clusters: 4661
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.004808650436948504
+ Average CPrecision for all records: 0.04482623937323395
+ Average Precision for all records: 0.9940367263947135
+ Average Recall for all records: 0.20472741136103698
+ Average F1 for all records: 0.3395272837800788
+
+Tuples in clusters Count: 5246
+Cluster Count: 4716
+cu1 - Thr: 0.7000000000000001
+ Number of Clusters: 4716
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.004339934024307343
+ Average CPrecision for all records: 0.04093425771726685
+ Average Precision for all records: 0.9940163026705154
+ Average Recall for all records: 0.19462447579107892
+ Average F1 for all records: 0.3255144957847099
+
+Tuples in clusters Count: 5246
+Cluster Count: 4748
+cu1 - Thr: 0.7500000000000001
+ Number of Clusters: 4748
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.003970954564659444
+ Average CPrecision for all records: 0.03770818454600608
+ Average Precision for all records: 0.9970390138518237
+ Average Recall for all records: 0.1890964544414792
+ Average F1 for all records: 0.31790052232480437
+
+Tuples in clusters Count: 5246
+Cluster Count: 4763
+cu1 - Thr: 0.8000000000000002
+ Number of Clusters: 4763
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.003636296871670073
+ Average CPrecision for all records: 0.03463936399952912
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.18680899733130005
+ Average F1 for all records: 0.31480886604561514
+
+Tuples in clusters Count: 5246
+Cluster Count: 4771
+cu1 - Thr: 0.8500000000000002
+ Number of Clusters: 4771
+ Ground Truth Clusters with size >= 2: 477
+ Average Penalized CPrecision for all records: 0.0036014541081564096
+ Average CPrecision for all records: 0.03436507510002846
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.18566526877621045
+ Average F1 for all records: 0.31318327974276533
+
+*********************
+Table: cu2
+*********************
+Tuples in clusters Count: 7273
+Cluster Count: 3
+cu2 - Thr: 0.1
+ Number of Clusters: 3
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.005931694620954857
+ Average CPrecision for all records: 0.9886157701591429
+ Average Precision for all records: 0.004379776454696563
+ Average Recall for all records: 0.9067055393586005
+ Average F1 for all records: 0.008717443918149007
+
+Tuples in clusters Count: 7485
+Cluster Count: 35
+cu2 - Thr: 0.15000000000000002
+ Number of Clusters: 35
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.0647268490596664
+ Average CPrecision for all records: 0.9246692722809484
+ Average Precision for all records: 0.06667848515149191
+ Average Recall for all records: 0.7982507288629738
+ Average F1 for all records: 0.12307631308836148
+
+Tuples in clusters Count: 5971
+Cluster Count: 224
+cu2 - Thr: 0.2
+ Number of Clusters: 224
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.4011547327592017
+ Average CPrecision for all records: 0.8954346713375038
+ Average Precision for all records: 0.333236876193261
+ Average Recall for all records: 0.8021379980563654
+ Average F1 for all records: 0.47086115222495156
+
+Tuples in clusters Count: 5349
+Cluster Count: 523
+cu2 - Thr: 0.25
+ Number of Clusters: 523
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.8340700556960765
+ Average CPrecision for all records: 0.872437278258096
+ Average Precision for all records: 0.5943456153035936
+ Average Recall for all records: 0.8120505344995141
+ Average F1 for all records: 0.6863481169971835
+
+Tuples in clusters Count: 5177
+Cluster Count: 924
+cu2 - Thr: 0.3
+ Number of Clusters: 924
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.41901425445325646
+ Average CPrecision for all records: 0.774338342229618
+ Average Precision for all records: 0.7131765715658169
+ Average Recall for all records: 0.822351797862002
+ Average F1 for all records: 0.7638830353082282
+
+Tuples in clusters Count: 5151
+Cluster Count: 1351
+cu2 - Thr: 0.35
+ Number of Clusters: 1351
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.24678733240097328
+ Average CPrecision for all records: 0.6668193721474298
+ Average Precision for all records: 0.7840065534326491
+ Average Recall for all records: 0.7852283770651117
+ Average F1 for all records: 0.7846169895861992
+
+Tuples in clusters Count: 5145
+Cluster Count: 1832
+cu2 - Thr: 0.39999999999999997
+ Number of Clusters: 1832
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.1504268610878739
+ Average CPrecision for all records: 0.5511640190259699
+ Average Precision for all records: 0.87432939352575
+ Average Recall for all records: 0.7094266277939747
+ Average F1 for all records: 0.7832930639319788
+
+Tuples in clusters Count: 5146
+Cluster Count: 2197
+cu2 - Thr: 0.44999999999999996
+ Number of Clusters: 2197
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.10488125334386841
+ Average CPrecision for all records: 0.4608482271929578
+ Average Precision for all records: 0.9311218122813006
+ Average Recall for all records: 0.6515063168124393
+ Average F1 for all records: 0.7666131181056275
+
+Tuples in clusters Count: 5145
+Cluster Count: 2463
+cu2 - Thr: 0.49999999999999994
+ Number of Clusters: 2463
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.08086937030129271
+ Average CPrecision for all records: 0.3983625181041679
+ Average Precision for all records: 0.9510320957485386
+ Average Recall for all records: 0.6081632653061224
+ Average F1 for all records: 0.7418990579475943
+
+Tuples in clusters Count: 5145
+Cluster Count: 2609
+cu2 - Thr: 0.5499999999999999
+ Number of Clusters: 2609
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.07088226249376094
+ Average CPrecision for all records: 0.36986364569244456
+ Average Precision for all records: 0.9771131929295194
+ Average Recall for all records: 0.5832847424684159
+ Average F1 for all records: 0.7304998349091516
+
+Tuples in clusters Count: 5145
+Cluster Count: 2690
+cu2 - Thr: 0.6
+ Number of Clusters: 2690
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.06610922472394794
+ Average CPrecision for all records: 0.35566762901483995
+ Average Precision for all records: 0.9859589390201634
+ Average Recall for all records: 0.5696793002915452
+ Average F1 for all records: 0.7221221287871095
+
+Tuples in clusters Count: 5145
+Cluster Count: 2733
+cu2 - Thr: 0.65
+ Number of Clusters: 2733
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.06369722356732073
+ Average CPrecision for all records: 0.3481690240189751
+ Average Precision for all records: 0.9950321787056482
+ Average Recall for all records: 0.5640427599611273
+ Average F1 for all records: 0.7199662856580914
+
+Tuples in clusters Count: 5145
+Cluster Count: 2759
+cu2 - Thr: 0.7000000000000001
+ Number of Clusters: 2759
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.06233924308016446
+ Average CPrecision for all records: 0.3439879433163475
+ Average Precision for all records: 0.9973495891863238
+ Average Recall for all records: 0.5601554907677356
+ Average F1 for all records: 0.7173920082676628
+
+Tuples in clusters Count: 5145
+Cluster Count: 2779
+cu2 - Thr: 0.7500000000000001
+ Number of Clusters: 2779
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.06127544746240848
+ Average CPrecision for all records: 0.34056893699606633
+ Average Precision for all records: 0.9979326795653326
+ Average Recall for all records: 0.5566569484936832
+ Average F1 for all records: 0.7146659802465558
+
+Tuples in clusters Count: 5145
+Cluster Count: 2792
+cu2 - Thr: 0.8000000000000002
+ Number of Clusters: 2792
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.06061047546199289
+ Average CPrecision for all records: 0.3384488949797683
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.5545189504373178
+ Average F1 for all records: 0.7134283570892723
+
+Tuples in clusters Count: 5145
+Cluster Count: 2812
+cu2 - Thr: 0.8500000000000002
+ Number of Clusters: 2812
+ Ground Truth Clusters with size >= 2: 483
+ Average Penalized CPrecision for all records: 0.05967969447050109
+ Average CPrecision for all records: 0.33563860170209814
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.5506316812439261
+*********************
+Table: cu3
+*********************
+ Average F1 for all records: 0.7102030584106291
+
+Tuples in clusters Count: 4966
+Cluster Count: 2
+cu3 - Thr: 0.1
+ Number of Clusters: 2
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.0040
+ Average CPrecision for all records: 1.0
+ Average Precision for all records: 0.005003828211897418
+ Average Recall for all records: 1.0
+ Average F1 for all records: 0.009957829157328143
+
+Tuples in clusters Count: 5226
+Cluster Count: 36
+cu3 - Thr: 0.15000000000000002
+ Number of Clusters: 36
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.07085480309889929
+ Average CPrecision for all records: 0.9840944874847123
+ Average Precision for all records: 0.07149113201518577
+ Average Recall for all records: 0.901329037454692
+ Average F1 for all records: 0.13247470648333207
+
+Tuples in clusters Count: 5511
+Cluster Count: 202
+cu3 - Thr: 0.2
+ Number of Clusters: 202
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.3774253884607658
+ Average CPrecision for all records: 0.9342212585662519
+ Average Precision for all records: 0.3505394865599025
+ Average Recall for all records: 0.8169552960128876
+ Average F1 for all records: 0.4905805049949268
+
+Tuples in clusters Count: 5136
+Cluster Count: 462
+cu3 - Thr: 0.25
+ Number of Clusters: 462
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.8346192068270901
+ Average CPrecision for all records: 0.9032675398561582
+ Average Precision for all records: 0.6095129559695212
+ Average Recall for all records: 0.8366894885219492
+ Average F1 for all records: 0.7052582234528892
+
+Tuples in clusters Count: 5032
+Cluster Count: 749
+cu3 - Thr: 0.3
+ Number of Clusters: 749
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.5555267434880707
+ Average CPrecision for all records: 0.8321790617451299
+ Average Precision for all records: 0.6945500307346998
+ Average Recall for all records: 0.8644784534836891
+ Average F1 for all records: 0.7702534527296995
+
+Tuples in clusters Count: 4983
+Cluster Count: 1071
+cu3 - Thr: 0.35
+ Number of Clusters: 1071
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.3474122599659696
+ Average CPrecision for all records: 0.7441570608471069
+ Average Precision for all records: 0.8005055252897664
+ Average Recall for all records: 0.8395086588803866
+ Average F1 for all records: 0.8195433020628404
+
+Tuples in clusters Count: 4966
+Cluster Count: 1333
+cu3 - Thr: 0.39999999999999997
+ Number of Clusters: 1333
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.25327373856394303
+ Average CPrecision for all records: 0.675227787011472
+ Average Precision for all records: 0.879141238006458
+ Average Recall for all records: 0.8054772452678212
+ Average F1 for all records: 0.8406986740575737
+
+Tuples in clusters Count: 4966
+Cluster Count: 1538
+cu3 - Thr: 0.44999999999999996
+ Number of Clusters: 1538
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.19935537309127466
+ Average CPrecision for all records: 0.6132171276287609
+ Average Precision for all records: 0.9221327469576724
+ Average Recall for all records: 0.7734595247684253
+ Average F1 for all records: 0.8412781399495526
+
+Tuples in clusters Count: 4966
+Cluster Count: 1674
+cu3 - Thr: 0.49999999999999994
+ Number of Clusters: 1674
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.17327685969429557
+ Average CPrecision for all records: 0.5801309262565015
+ Average Precision for all records: 0.9515817104105997
+ Average Recall for all records: 0.7549335481272654
+ Average F1 for all records: 0.8419273761299875
+
+Tuples in clusters Count: 4966
+Cluster Count: 1764
+cu3 - Thr: 0.5499999999999999
+ Number of Clusters: 1764
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.15870242403609092
+ Average CPrecision for all records: 0.5599021519993288
+ Average Precision for all records: 0.9789188023682588
+ Average Recall for all records: 0.7420459122029802
+ Average F1 for all records: 0.8441808126867719
+
+Tuples in clusters Count: 4966
+Cluster Count: 1825
+cu3 - Thr: 0.6
+ Number of Clusters: 1825
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.1493081648299995
+ Average CPrecision for all records: 0.5449748016294982
+ Average Precision for all records: 0.9884181353170479
+ Average Recall for all records: 0.7311719693918647
+ Average F1 for all records: 0.840553376765026
+
+Tuples in clusters Count: 4966
+Cluster Count: 1860
+cu3 - Thr: 0.65
+ Number of Clusters: 1860
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.14446121765681497
+ Average CPrecision for all records: 0.5373957296833517
+ Average Precision for all records: 0.9962359428730754
+ Average Recall for all records: 0.7255336286749899
+ Average F1 for all records: 0.8396044285987364
+
+Tuples in clusters Count: 4966
+Cluster Count: 1873
+cu3 - Thr: 0.7000000000000001
+ Number of Clusters: 1873
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.14253338576353106
+ Average CPrecision for all records: 0.5339300630701873
+ Average Precision for all records: 0.9969794603302456
+ Average Recall for all records: 0.7229158276278695
+ Average F1 for all records: 0.8381117580109078
+
+Tuples in clusters Count: 4966
+Cluster Count: 1882
+cu3 - Thr: 0.7500000000000001
+ Number of Clusters: 1882
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.14143981011116846
+ Average CPrecision for all records: 0.5323794452584382
+ Average Precision for all records: 0.9972311719693918
+ Average Recall for all records: 0.7215062424486508
+ Average F1 for all records: 0.8372524036592557
+
+Tuples in clusters Count: 4966
+Cluster Count: 1886
+cu3 - Thr: 0.8000000000000002
+ Number of Clusters: 1886
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.1410119576769479
+ Average CPrecision for all records: 0.5318971043574475
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.7209021345147
+ Average F1 for all records: 0.8378188626257899
+
+Tuples in clusters Count: 4966
+Cluster Count: 1889
+cu3 - Thr: 0.8500000000000002
+ Number of Clusters: 1889
+ Ground Truth Clusters with size >= 2: 469
+ Average Penalized CPrecision for all records: 0.14062546450761906
+ Average CPrecision for all records: 0.5312830049097848
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.720298026580749
+*********************
+Table: cu4
+*********************
+ Average F1 for all records: 0.837410745639705
+
+Tuples in clusters Count: 4903
+Cluster Count: 3
+cu4 - Thr: 0.1
+ Number of Clusters: 3
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.0060
+ Average CPrecision for all records: 1.0
+ Average Precision for all records: 0.004906302464041156
+ Average Recall for all records: 1.0
+ Average F1 for all records: 0.009764696374200955
+
+Tuples in clusters Count: 5744
+Cluster Count: 41
+cu4 - Thr: 0.15000000000000002
+ Number of Clusters: 41
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.08092921499239791
+ Average CPrecision for all records: 0.986941646248755
+ Average Precision for all records: 0.0857476059748211
+ Average Recall for all records: 0.9612482153783398
+ Average F1 for all records: 0.15744997551133352
+
+Tuples in clusters Count: 5527
+Cluster Count: 171
+cu4 - Thr: 0.2
+ Number of Clusters: 171
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.3329898167755167
+ Average CPrecision for all records: 0.9736544350161307
+ Average Precision for all records: 0.3382508928706978
+ Average Recall for all records: 0.931674485009178
+ Average F1 for all records: 0.49631219583204766
+
+Tuples in clusters Count: 5071
+Cluster Count: 335
+cu4 - Thr: 0.25
+ Number of Clusters: 335
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.6378605269751749
+ Average CPrecision for all records: 0.9520306372763805
+ Average Precision for all records: 0.5428949370494848
+ Average Recall for all records: 0.9318784417703447
+ Average F1 for all records: 0.686087903739534
+
+Tuples in clusters Count: 4943
+Cluster Count: 474
+cu4 - Thr: 0.3
+ Number of Clusters: 474
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.8857166004296585
+ Average CPrecision for all records: 0.9343002114236905
+ Average Precision for all records: 0.6666835685939188
+ Average Recall for all records: 0.952274117887008
+ Average F1 for all records: 0.784289191118419
+
+Tuples in clusters Count: 4915
+Cluster Count: 615
+cu4 - Thr: 0.35
+ Number of Clusters: 615
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.7385581090728189
+ Average CPrecision for all records: 0.9084264741595673
+ Average Precision for all records: 0.7897621128627615
+ Average Recall for all records: 0.9481949826636753
+ Average F1 for all records: 0.8617571456072147
+
+Tuples in clusters Count: 4909
+Cluster Count: 730
+cu4 - Thr: 0.39999999999999997
+ Number of Clusters: 730
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.603501578401873
+ Average CPrecision for all records: 0.8811123044667347
+ Average Precision for all records: 0.8834965130108395
+ Average Recall for all records: 0.933918009382011
+ Average F1 for all records: 0.9080078260194242
+
+Tuples in clusters Count: 4903
+Cluster Count: 800
+cu4 - Thr: 0.44999999999999996
+ Number of Clusters: 800
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.5408097038917845
+ Average CPrecision for all records: 0.8652955262268552
+ Average Precision for all records: 0.9292769412541564
+ Average Recall for all records: 0.9290230471140118
+ Average F1 for all records: 0.9291499768396739
+
+Tuples in clusters Count: 4903
+Cluster Count: 854
+cu4 - Thr: 0.49999999999999994
+ Number of Clusters: 854
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.5006143989556796
+ Average CPrecision for all records: 0.8550493934163008
+ Average Precision for all records: 0.9678087476106406
+ Average Recall for all records: 0.9235162145625128
+ Average F1 for all records: 0.945143842427685
+
+Tuples in clusters Count: 4903
+Cluster Count: 882
+cu4 - Thr: 0.5499999999999999
+ Number of Clusters: 882
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.4820184189913032
+ Average CPrecision for all records: 0.8502804911006588
+ Average Precision for all records: 0.9910240730935485
+ Average Recall for all records: 0.92004894962268
+ Average F1 for all records: 0.9542185428420433
+
+Tuples in clusters Count: 4903
+Cluster Count: 895
+cu4 - Thr: 0.6
+ Number of Clusters: 895
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.4726936231877251
+ Average CPrecision for all records: 0.846121585506028
+ Average Precision for all records: 0.9929365319379878
+ Average Recall for all records: 0.918417295533347
+ Average F1 for all records: 0.9542242479564388
+
+Tuples in clusters Count: 4903
+Cluster Count: 901
+cu4 - Thr: 0.65
+ Number of Clusters: 901
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.4688503192418918
+ Average CPrecision for all records: 0.8448682752738891
+ Average Precision for all records: 0.9952709225644164
+ Average Recall for all records: 0.9176014684886804
+ Average F1 for all records: 0.9548593668461204
+
+Tuples in clusters Count: 4903
+Cluster Count: 905
+cu4 - Thr: 0.7000000000000001
+ Number of Clusters: 905
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.46621577622506943
+ Average CPrecision for all records: 0.8438505549673756
+ Average Precision for all records: 0.9982323747365558
+ Average Recall for all records: 0.9169895982051806
+ Average F1 for all records: 0.9558878471084921
+
+Tuples in clusters Count: 4903
+Cluster Count: 909
+cu4 - Thr: 0.7500000000000001
+ Number of Clusters: 909
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.46385157197318716
+ Average CPrecision for all records: 0.8432821578472542
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.9165816846828473
+ Average F1 for all records: 0.9564754708949665
+
+Tuples in clusters Count: 4903
+Cluster Count: 911
+cu4 - Thr: 0.8000000000000002
+ Number of Clusters: 911
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.4625537699014704
+ Average CPrecision for all records: 0.842772968760479
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.916173771160514
+ Average F1 for all records: 0.9562533262373604
+
+Tuples in clusters Count: 4903
+Cluster Count: 926
+cu4 - Thr: 0.8500000000000002
+ Number of Clusters: 926
+ Ground Truth Clusters with size >= 2: 464
+ Average Penalized CPrecision for all records: 0.45363318397695473
+ Average CPrecision for all records: 0.8401286567253202
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.9131144197430144
+********************* Average F1 for all records: 0.9545842217484009
+
+
+Table: cu5
+*********************
+Tuples in clusters Count: 4996
+Cluster Count: 1
+cu5 - Thr: 0.1
+ Number of Clusters: 1
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.0020
+ Average CPrecision for all records: 1.0
+ Average Precision for all records: 0.0026134598631667584
+ Average Recall for all records: 1.0
+ Average F1 for all records: 0.005213294989124591
+
+Tuples in clusters Count: 5049
+Cluster Count: 11
+cu5 - Thr: 0.15000000000000002
+ Number of Clusters: 11
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.021972993837595118
+ Average CPrecision for all records: 0.9987724471634145
+ Average Precision for all records: 0.022888099655392888
+ Average Recall for all records: 0.9657726180944756
+ Average F1 for all records: 0.04471645232897491
+
+Tuples in clusters Count: 5819
+Cluster Count: 69
+cu5 - Thr: 0.2
+ Number of Clusters: 69
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.1317219127935422
+ Average CPrecision for all records: 0.954506614445958
+ Average Precision for all records: 0.14335763692141226
+ Average Recall for all records: 0.9037229783827062
+ Average F1 for all records: 0.24746058463683168
+
+Tuples in clusters Count: 5244
+Cluster Count: 201
+cu5 - Thr: 0.25
+ Number of Clusters: 201
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.3942154946429489
+ Average CPrecision for all records: 0.9806355588133057
+ Average Precision for all records: 0.40810426427965457
+ Average Recall for all records: 0.9633706965572458
+ Average F1 for all records: 0.573332653637602
+
+Tuples in clusters Count: 5029
+Cluster Count: 321
+cu5 - Thr: 0.3
+ Number of Clusters: 321
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.6290219853641228
+ Average CPrecision for all records: 0.9797850239316553
+ Average Precision for all records: 0.6399157509670642
+ Average Recall for all records: 0.9807846277021617
+ Average F1 for all records: 0.7745040845715434
+
+Tuples in clusters Count: 5013
+Cluster Count: 433
+cu5 - Thr: 0.35
+ Number of Clusters: 433
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.8412776278970371
+ Average CPrecision for all records: 0.9714522262090497
+ Average Precision for all records: 0.785967474083592
+ Average Recall for all records: 0.9835868694955965
+ Average F1 for all records: 0.8737423523208645
+
+Tuples in clusters Count: 5010
+Cluster Count: 545
+cu5 - Thr: 0.39999999999999997
+ Number of Clusters: 545
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.8695668394604681
+ Average CPrecision for all records: 0.9478278550119101
+ Average Precision for all records: 0.887156252186785
+ Average Recall for all records: 0.97177742193755
+ Average F1 for all records: 0.9275408021342778
+
+Tuples in clusters Count: 5002
+Cluster Count: 673
+cu5 - Thr: 0.44999999999999996
+ Number of Clusters: 673
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.6769447601619258
+ Average CPrecision for all records: 0.9111676471779522
+ Average Precision for all records: 0.9545748484438628
+ Average Recall for all records: 0.9507606084867894
+ Average F1 for all records: 0.9526639106529831
+
+Tuples in clusters Count: 5001
+Cluster Count: 842
+cu5 - Thr: 0.49999999999999994
+ Number of Clusters: 842
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.5105142322669853
+ Average CPrecision for all records: 0.8597059671376033
+ Average Precision for all records: 0.9764586116979039
+ Average Recall for all records: 0.9185348278622898
+ Average F1 for all records: 0.9466114489755146
+
+Tuples in clusters Count: 5002
+Cluster Count: 1114
+cu5 - Thr: 0.5499999999999999
+ Number of Clusters: 1114
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.34139351794691686
+ Average CPrecision for all records: 0.7606247579857307
+ Average Precision for all records: 0.9850371930988747
+ Average Recall for all records: 0.8568855084067254
+ Average F1 for all records: 0.9165032770573046
+
+Tuples in clusters Count: 5008
+Cluster Count: 1547
+cu5 - Thr: 0.6
+ Number of Clusters: 1547
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.19938190522723243
+ Average CPrecision for all records: 0.6168876147730571
+ Average Precision for all records: 0.9884836341770311
+ Average Recall for all records: 0.761208967173739
+ Average F1 for all records: 0.8600854866267972
+
+Tuples in clusters Count: 5006
+Cluster Count: 2073
+cu5 - Thr: 0.65
+ Number of Clusters: 2073
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.11208796950081394
+ Average CPrecision for all records: 0.4647167215503746
+ Average Precision for all records: 0.9970191839746307
+ Average Recall for all records: 0.6529223378702962
+ Average F1 for all records: 0.7890899015309879
+
+Tuples in clusters Count: 5001
+Cluster Count: 2674
+cu5 - Thr: 0.7000000000000001
+ Number of Clusters: 2674
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.06180308728844721
+ Average CPrecision for all records: 0.3305229108186157
+ Average Precision for all records: 0.9975262261090926
+ Average Recall for all records: 0.5342273819055244
+ Average F1 for all records: 0.6958114168858851
+
+Tuples in clusters Count: 5000
+Cluster Count: 3226
+cu5 - Thr: 0.7500000000000001
+ Number of Clusters: 3226
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.033867322887228116
+ Average CPrecision for all records: 0.2185119672683958
+ Average Precision for all records: 0.9984654390178809
+ Average Recall for all records: 0.42574059247397916
+ Average F1 for all records: 0.5969463099759298
+
+Tuples in clusters Count: 4996
+Cluster Count: 3667
+cu5 - Thr: 0.8000000000000002
+ Number of Clusters: 3667
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.02041521727763993
+ Average CPrecision for all records: 0.14972520351421126
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.3386709367493995
+ Average F1 for all records: 0.5059808612440192
+
+Tuples in clusters Count: 4996
+Cluster Count: 4007
+cu5 - Thr: 0.8500000000000002
+ Number of Clusters: 4007
+ Ground Truth Clusters with size >= 2: 478
+ Average Penalized CPrecision for all records: 0.012913995526911573
+ Average CPrecision for all records: 0.10349276015266934
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.2752201761409127
+*********************
+Table: cu6
+*********************
+ Average F1 for all records: 0.43164338408413117
+
+Tuples in clusters Count: 4709
+Cluster Count: 1
+cu6 - Thr: 0.1
+ Number of Clusters: 1
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.0020
+ Average CPrecision for all records: 1.0
+ Average Precision for all records: 0.002651447387225097
+ Average Recall for all records: 1.0
+ Average F1 for all records: 0.005288871609639447
+
+Tuples in clusters Count: 6436
+Cluster Count: 19
+cu6 - Thr: 0.15000000000000002
+ Number of Clusters: 19
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.03715002770913224
+ Average CPrecision for all records: 0.977632308135059
+ Average Precision for all records: 0.03416578320067272
+ Average Recall for all records: 0.9059248248035676
+ Average F1 for all records: 0.06584818717858416
+
+Tuples in clusters Count: 5419
+Cluster Count: 94
+cu6 - Thr: 0.2
+ Number of Clusters: 94
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.18472703590346906
+ Average CPrecision for all records: 0.9825906165078141
+ Average Precision for all records: 0.1721233791659265
+ Average Recall for all records: 0.9265236780632831
+ Average F1 for all records: 0.29031413736763667
+
+Tuples in clusters Count: 5016
+Cluster Count: 199
+cu6 - Thr: 0.25
+ Number of Clusters: 199
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.3949319667201379
+ Average CPrecision for all records: 0.9922913736686882
+ Average Precision for all records: 0.3951940312687554
+ Average Recall for all records: 0.9757910384370355
+ Average F1 for all records: 0.5625543307172723
+
+Tuples in clusters Count: 4799
+Cluster Count: 313
+cu6 - Thr: 0.3
+ Number of Clusters: 313
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.6198790328153335
+ Average CPrecision for all records: 0.9902220971490951
+ Average Precision for all records: 0.6084166019708431
+ Average Recall for all records: 0.9893820344022085
+ Average F1 for all records: 0.7534822495385427
+
+Tuples in clusters Count: 4734
+Cluster Count: 396
+cu6 - Thr: 0.35
+ Number of Clusters: 396
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.7761851736295229
+ Average CPrecision for all records: 0.9800317848857611
+ Average Precision for all records: 0.7270801795197204
+ Average Recall for all records: 0.9859842854109153
+ Average F1 for all records: 0.836967488283308
+
+Tuples in clusters Count: 4771
+Cluster Count: 471
+cu6 - Thr: 0.39999999999999997
+ Number of Clusters: 471
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.91083899033543
+ Average CPrecision for all records: 0.9669203719059767
+ Average Precision for all records: 0.8053592095773559
+ Average Recall for all records: 0.9774899129326821
+ Average F1 for all records: 0.883115114688984
+
+Tuples in clusters Count: 4735
+Cluster Count: 569
+cu6 - Thr: 0.44999999999999996
+ Number of Clusters: 569
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.8301376979317092
+ Average CPrecision for all records: 0.944696700246285
+ Average Precision for all records: 0.894548694517815
+ Average Recall for all records: 0.9704820556381397
+ Average F1 for all records: 0.930969589484215
+
+Tuples in clusters Count: 4711
+Cluster Count: 729
+cu6 - Thr: 0.49999999999999994
+ Number of Clusters: 729
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.6156921145404259
+ Average CPrecision for all records: 0.897679102999941
+ Average Precision for all records: 0.9600705248377447
+ Average Recall for all records: 0.9435124230197495
+ Average F1 for all records: 0.9517194595371168
+
+Tuples in clusters Count: 4710
+Cluster Count: 911
+cu6 - Thr: 0.5499999999999999
+ Number of Clusters: 911
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.4566133330434281
+ Average CPrecision for all records: 0.831949492805126
+ Average Precision for all records: 0.9746837077864572
+ Average Recall for all records: 0.902951794436186
+ Average F1 for all records: 0.9374475524261136
+
+Tuples in clusters Count: 4709
+Cluster Count: 1162
+cu6 - Thr: 0.6
+ Number of Clusters: 1162
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.32055410126337064
+ Average CPrecision for all records: 0.7449677313360733
+ Average Precision for all records: 0.9772125372446335
+ Average Recall for all records: 0.8488001698874496
+ Average F1 for all records: 0.9084911231884351
+
+Tuples in clusters Count: 4709
+Cluster Count: 1416
+cu6 - Thr: 0.65
+ Number of Clusters: 1416
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.23438938298449605
+ Average CPrecision for all records: 0.6637907326120928
+ Average Precision for all records: 0.9865018647833653
+ Average Recall for all records: 0.7944361860267573
+ Average F1 for all records: 0.8801123414823789
+
+Tuples in clusters Count: 4709
+Cluster Count: 1702
+cu6 - Thr: 0.7000000000000001
+ Number of Clusters: 1702
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.1701632520464812
+ Average CPrecision for all records: 0.579235709966222
+ Average Precision for all records: 0.9916866774479857
+ Average Recall for all records: 0.7354002973030367
+ Average F1 for all records: 0.8445280267739191
+
+Tuples in clusters Count: 4710
+Cluster Count: 1960
+cu6 - Thr: 0.7500000000000001
+ Number of Clusters: 1960
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.12682128722481345
+ Average CPrecision for all records: 0.49713944592126874
+ Average Precision for all records: 0.9948522172242706
+ Average Recall for all records: 0.6810363134423445
+ Average F1 for all records: 0.8085627105149525
+
+Tuples in clusters Count: 4709
+Cluster Count: 2185
+cu6 - Thr: 0.8000000000000002
+ Number of Clusters: 2185
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.09904853800301279
+ Average CPrecision for all records: 0.4328421110731659
+ Average Precision for all records: 0.9996224723343008
+ Average Recall for all records: 0.6341049055001062
+ Average F1 for all records: 0.775974647857768
+
+Tuples in clusters Count: 4709
+Cluster Count: 2318
+cu6 - Thr: 0.8500000000000002
+ Number of Clusters: 2318
+ Ground Truth Clusters with size >= 2: 471
+ Average Penalized CPrecision for all records: 0.08563323795378848
+ Average CPrecision for all records: 0.3969956911537634
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.6062858356338926
+*********************
+Table: cu7
+*********************
+ Average F1 for all records: 0.7548915917503967
+
+Tuples in clusters Count: 5216
+Cluster Count: 4
+cu7 - Thr: 0.1
+ Number of Clusters: 4
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.007983193277310924
+ Average CPrecision for all records: 0.9978991596638656
+ Average Precision for all records: 0.005565854900996462
+ Average Recall for all records: 0.9986515122327104
+ Average F1 for all records: 0.011070012520522145
+
+Tuples in clusters Count: 6900
+Cluster Count: 15
+cu7 - Thr: 0.15000000000000002
+ Number of Clusters: 15
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.029457566081922175
+ Average CPrecision for all records: 0.9819188693974059
+ Average Precision for all records: 0.024715177076275192
+ Average Recall for all records: 0.9387401271431324
+ Average F1 for all records: 0.04816233481582247
+
+Tuples in clusters Count: 6133
+Cluster Count: 88
+cu7 - Thr: 0.2
+ Number of Clusters: 88
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.17357402901781496
+ Average CPrecision for all records: 0.9862160739648578
+ Average Precision for all records: 0.16983996297721368
+ Average Recall for all records: 0.9626276247351184
+ Average F1 for all records: 0.28873698800708786
+
+Tuples in clusters Count: 5502
+Cluster Count: 178
+cu7 - Thr: 0.25
+ Number of Clusters: 178
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.35374233422893503
+ Average CPrecision for all records: 0.9936582422161097
+ Average Precision for all records: 0.34374908822905215
+ Average Recall for all records: 0.978809477942593
+ Average F1 for all records: 0.5088090224490726
+
+Tuples in clusters Count: 5295
+Cluster Count: 291
+cu7 - Thr: 0.3
+ Number of Clusters: 291
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.5788246283509831
+ Average CPrecision for all records: 0.9945440349673251
+ Average Precision for all records: 0.5719107207951952
+ Average Recall for all records: 0.993450202273165
+ Average F1 for all records: 0.7259218150693112
+
+Tuples in clusters Count: 5216
+Cluster Count: 398
+cu7 - Thr: 0.35
+ Number of Clusters: 398
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.7852881164862835
+ Average CPrecision for all records: 0.9865428599073913
+ Average Precision for all records: 0.7465570351634019
+ Average Recall for all records: 0.9915237911770372
+ Average F1 for all records: 0.8517774899958717
+
+Tuples in clusters Count: 5200
+Cluster Count: 493
+cu7 - Thr: 0.39999999999999997
+ Number of Clusters: 493
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.9560918113460574
+ Average CPrecision for all records: 0.9696671514665897
+ Average Precision for all records: 0.8532876060577813
+ Average Recall for all records: 0.9857445578886534
+ Average F1 for all records: 0.9147459522190221
+
+Tuples in clusters Count: 5191
+Cluster Count: 573
+cu7 - Thr: 0.44999999999999996
+ Number of Clusters: 573
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.8315851645955152
+ Average CPrecision for all records: 0.9529965986264605
+ Average Precision for all records: 0.9088089698170573
+ Average Recall for all records: 0.9761125024080138
+ Average F1 for all records: 0.9412591567454452
+
+Tuples in clusters Count: 5191
+Cluster Count: 678
+cu7 - Thr: 0.49999999999999994
+ Number of Clusters: 678
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.6800886569780896
+ Average CPrecision for all records: 0.9222002188622895
+ Average Precision for all records: 0.9683744378480575
+ Average Recall for all records: 0.9607012136389905
+ Average F1 for all records: 0.9645225649709056
+
+Tuples in clusters Count: 5191
+Cluster Count: 803
+cu7 - Thr: 0.5499999999999999
+ Number of Clusters: 803
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.5483462835186609
+ Average CPrecision for all records: 0.8806441313309693
+ Average Precision for all records: 0.9814206121751301
+ Average Recall for all records: 0.93719899826623
+ Average F1 for all records: 0.9588001807161494
+
+Tuples in clusters Count: 5191
+Cluster Count: 977
+cu7 - Thr: 0.6
+ Number of Clusters: 977
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.42048041440354444
+ Average CPrecision for all records: 0.8216187297445259
+ Average Precision for all records: 0.9951839722596802
+ Average Recall for all records: 0.9029088807551532
+ Average F1 for all records: 0.9468034665545765
+
+Tuples in clusters Count: 5191
+Cluster Count: 1174
+cu7 - Thr: 0.65
+ Number of Clusters: 1174
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.3232679051956198
+ Average CPrecision for all records: 0.7590330413993154
+ Average Precision for all records: 0.9979451614974635
+ Average Recall for all records: 0.8653438643806588
+ Average F1 for all records: 0.9269262154143997
+
+Tuples in clusters Count: 5191
+Cluster Count: 1346
+cu7 - Thr: 0.7000000000000001
+ Number of Clusters: 1346
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.26005737934755013
+ Average CPrecision for all records: 0.700074465203605
+ Average Precision for all records: 0.9979772683490656
+ Average Recall for all records: 0.8302831824311308
+ Average F1 for all records: 0.906439497726036
+
+Tuples in clusters Count: 5191
+Cluster Count: 1526
+cu7 - Thr: 0.7500000000000001
+ Number of Clusters: 1526
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.21192361174653462
+ Average CPrecision for all records: 0.6467908630504237
+ Average Precision for all records: 0.9979986729168004
+ Average Recall for all records: 0.7973415526873435
+ Average F1 for all records: 0.8864568398734743
+
+Tuples in clusters Count: 5191
+Cluster Count: 1672
+cu7 - Thr: 0.8000000000000002
+ Number of Clusters: 1672
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.18066208871561695
+ Average CPrecision for all records: 0.6041340246650231
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.7699865151223271
+ Average F1 for all records: 0.8700478885502829
+
+Tuples in clusters Count: 5191
+Cluster Count: 1765
+cu7 - Thr: 0.8500000000000002
+ Number of Clusters: 1765
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.1630892179341515
+ Average CPrecision for all records: 0.5757049393075547
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.7516856097091119
+********************* Average F1 for all records: 0.8582426042010338
+
+
+Table: cu8
+*********************
+Tuples in clusters Count: 4959
+Cluster Count: 4
+cu8 - Thr: 0.1
+ Number of Clusters: 4
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.0080
+ Average CPrecision for all records: 1.0
+ Average Precision for all records: 0.006010108466111709
+ Average Recall for all records: 1.0
+ Average F1 for all records: 0.011948405717861958
+
+Tuples in clusters Count: 5407
+Cluster Count: 39
+cu8 - Thr: 0.15000000000000002
+ Number of Clusters: 39
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.07788572447695655
+ Average CPrecision for all records: 0.9985349291917506
+ Average Precision for all records: 0.07361135886947429
+ Average Recall for all records: 0.9897156684815487
+ Average F1 for all records: 0.1370308726805012
+
+Tuples in clusters Count: 5528
+Cluster Count: 126
+cu8 - Thr: 0.2
+ Number of Clusters: 126
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.24997841353692749
+ Average CPrecision for all records: 0.991977831495744
+ Average Precision for all records: 0.2477136864667523
+ Average Recall for all records: 0.9866908650937689
+ Average F1 for all records: 0.3960076642401508
+
+Tuples in clusters Count: 5209
+Cluster Count: 219
+cu8 - Thr: 0.25
+ Number of Clusters: 219
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.4372709437621202
+ Average CPrecision for all records: 0.9983354880413704
+ Average Precision for all records: 0.4501908526150768
+ Average Recall for all records: 0.9965718894938496
+ Average F1 for all records: 0.6202088781598935
+
+Tuples in clusters Count: 4986
+Cluster Count: 304
+cu8 - Thr: 0.3
+ Number of Clusters: 304
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.6068103526725375
+ Average CPrecision for all records: 0.9980433432114104
+ Average Precision for all records: 0.6253425751977381
+ Average Recall for all records: 0.9979834644081468
+ Average F1 for all records: 0.7688924275363275
+
+Tuples in clusters Count: 4959
+Cluster Count: 390
+cu8 - Thr: 0.35
+ Number of Clusters: 390
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.7753085942510977
+ Average CPrecision for all records: 0.9939853772449969
+ Average Precision for all records: 0.7677076693158305
+ Average Recall for all records: 0.9971768501714056
+ Average F1 for all records: 0.8675245400908254
+
+Tuples in clusters Count: 4959
+Cluster Count: 438
+cu8 - Thr: 0.39999999999999997
+ Number of Clusters: 438
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.8672515323796064
+ Average CPrecision for all records: 0.9900131648169023
+ Average Precision for all records: 0.8402124406587668
+ Average Recall for all records: 0.9931437789876991
+ Average F1 for all records: 0.9102996455639554
+
+Tuples in clusters Count: 4959
+Cluster Count: 491
+cu8 - Thr: 0.44999999999999996
+ Number of Clusters: 491
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.9652395767203662
+ Average CPrecision for all records: 0.982932359185709
+ Average Precision for all records: 0.895974678102623
+ Average Recall for all records: 0.9911272433958459
+ Average F1 for all records: 0.9411520413854378
+
+Tuples in clusters Count: 4959
+Cluster Count: 542
+cu8 - Thr: 0.49999999999999994
+ Number of Clusters: 542
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.8952515809320576
+ Average CPrecision for all records: 0.9704527137303504
+ Average Precision for all records: 0.9384932726468926
+ Average Recall for all records: 0.9852792901794717
+ Average F1 for all records: 0.9613173650353171
+
+Tuples in clusters Count: 4960
+Cluster Count: 589
+cu8 - Thr: 0.5499999999999999
+ Number of Clusters: 589
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.813061417133129
+ Average CPrecision for all records: 0.9577863493828259
+ Average Precision for all records: 0.9756922029639052
+ Average Recall for all records: 0.979229683403912
+ Average F1 for all records: 0.9774577426038878
+
+Tuples in clusters Count: 4959
+Cluster Count: 644
+cu8 - Thr: 0.6
+ Number of Clusters: 644
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.730351198199278
+ Average CPrecision for all records: 0.94069234328067
+ Average Precision for all records: 0.9895111267895463
+ Average Recall for all records: 0.969751966122202
+ Average F1 for all records: 0.9795319109266565
+
+Tuples in clusters Count: 4959
+Cluster Count: 713
+cu8 - Thr: 0.65
+ Number of Clusters: 713
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.6430604700185951
+ Average CPrecision for all records: 0.9170042302465167
+ Average Precision for all records: 0.995189623233496
+ Average Recall for all records: 0.9562411776567856
+ Average F1 for all records: 0.9753267160469675
+
+Tuples in clusters Count: 4959
+Cluster Count: 783
+cu8 - Thr: 0.7000000000000001
+ Number of Clusters: 783
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.5700297605172525
+ Average CPrecision for all records: 0.8926666049700174
+ Average Precision for all records: 0.9977082983474526
+ Average Recall for all records: 0.9425287356321839
+ Average F1 for all records: 0.9693338746785634
+
+Tuples in clusters Count: 4959
+Cluster Count: 822
+cu8 - Thr: 0.7500000000000001
+ Number of Clusters: 822
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.5354727164796049
+ Average CPrecision for all records: 0.8803171458924705
+ Average Precision for all records: 0.9984218417107236
+ Average Recall for all records: 0.9346642468239564
+ Average F1 for all records: 0.9654916087079372
+
+Tuples in clusters Count: 4959
+Cluster Count: 864
+cu8 - Thr: 0.8000000000000002
+ Number of Clusters: 864
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.5021253648700226
+ Average CPrecision for all records: 0.867672630495399
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.9265981044565437
+ Average F1 for all records: 0.9619007745446934
+
+Tuples in clusters Count: 4959
+Cluster Count: 887
+cu8 - Thr: 0.8500000000000002
+ Number of Clusters: 887
+ Ground Truth Clusters with size >= 2: 476
+ Average Penalized CPrecision for all records: 0.48429628722452356
+ Average CPrecision for all records: 0.8591416135363048
+ Average Precision for all records: 1.0
+ Average Recall for all records: 0.921758419036096
+ Average F1 for all records: 0.9592864637985309
+

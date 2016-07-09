@@ -1,0 +1,188 @@
+Updated 6/28/97 for UIS dbgen.
+
+<uoft-note>
+
+The dbgen interface doesn't work well, but it works well with the command line options.
+Since we only generate title fields many of the details below may not apply.
+Look down to see the commandline options and the example I have provided.
+
+</uoft-note>
+
+
+The CUCS MAILING-LIST GENERATOR
+	Mauricio A. Hernandez
+	Please read the Copyright notice in COPYRIGHT
+
+MAILING LIST DESCRIPTION
+------------------------
+
+This directory contains the code of a random mailing-list generator.
+The generator reads the list of names "mnames" and a list of cities,
+states and zipcodes (zipcodes) and produces a random mailing-list.
+
+The generated mailing-list will consist of a set of records with the
+following information on them:
+
+	CUID :  Cluster Unique ID.  This is a unique number for each
+		cluster of records.  Basically, this is the "key"
+		of the data (you can cluster the duplicate records if you
+		sort the database using this field).
+	RUID :  Record Unique ID.  An unique id for each record.  This
+		is a counter that goes from 0 to N-1 where N is the number
+		of records.
+	SSN  :  A 9-digit social security number.  Invalid or NULL SSNs
+		are represented by '000000000'.
+	FNAME:  The first name.
+	MINIT:  A middle initial.
+	LNAME:  The last name.
+	STNUM:	The street number part of the address.  This field is 
+		empty in case of P.O. Boxes.
+	STADD:	The street name or the P.O. Box.
+	APMT :  The apartment number, if applicable.
+	CITY :	The name of a city.
+	STATE:  A two-letter code for the State.
+	ZIP  :	A 5-digit zipcode.
+
+All fields are separated by a ':' and the records are variable length.
+Each record is separated from each other by a CR.  (There is an option
+to make the records fixed-length).
+	
+Each generated record can be selected (according to a probabilistic 
+parameter) for duplication.  Noise will be introduced to each duplicate
+as prescribed with the user interface.
+
+
+BUILDING THE GENERATOR
+----------------------
+
+1) Set an environment variable named ARCH to the architecture of target
+   machine.  In most UNIX systems, you can add the following to your
+   .profile:
+	export ARCH=`arch`
+
+   The value of ARCH is really not important.  It is just the name of
+   the subdirectory where the object code and executable will be 
+   created.  If you do not want the executable and object code to 
+   go into a subdirectory just
+	export ARCH=.
+
+   
+2) make  (the Makefile assumes CC=gcc and that the "curses" library is
+	  available.)
+
+3) The executable will be in $ARCH/dbgen
+
+
+RUNNING THE GENERATOR
+---------------------
+
+1) set the environment variable GENERATOR_DIR to the path where you
+   installed the generator.  E.g., if my generator is in the "dbgen"
+   subdirectory of my home dir:
+
+	export GENERATOR_DIR=$HOME/dbgen
+
+2) IMPORTANT:  Make your window 80x24 characters!  The curses
+   user interface is rather dumb and does not resize.
+   
+3) cd $GENERATOR_DIR
+   $ARCH/dbgen
+
+
+CREATING A MAILING LIST
+-----------------------
+
+1) Run the generator.
+
+2) Change the necessary parameters (user the arrow keys to move around
+   or use vi's h,j,k,l.  Type number over numeric fields to overwrite 
+   values and CR to end.  Use '>' and '<' to move between pages.  Type
+   '/' to start change an alphanumeric field.
+
+3) Type 'g'
+
+4) Voila!
+
+
+COMMAND-LINE PARAMETERS
+-----------------------
+
+Usage:  dbgen [options]
+
+Options:
+	-n number : The number of records to be generated (N).
+	-d dups   : The percentage of N that will be selected for
+		duplication. 
+	-m number : The meaning of this value depends of the distribution
+		being used to generate the data:
+		Uniform:  The maximum number of duplicates per selected 
+			record.
+		Poisson:  The average number of duplicates per selected
+			record.
+		Zipf   :  No meaning.
+	-q : quiet.  No output to screen when generating a database.
+	-i : non-interactive.  The UI will not be shown.
+	-o filename :  the output will go to the named filename.
+	-p filename :  Use the named parameter file to read the parameters.
+		Parameter files are stored in the /parameters subdir.
+		Default: params.gen
+	-poisson : Duplicates will follow a Poisson distribution.
+		Default: Uniform
+	-z theta : Duplicates will follow a Zipf distribution using
+		the given parameter theta (0.0 <= theta <= 1.0)
+	-s randomseed :  Set the random seed.
+
+
+
+		
+<uoft-note>
+
+new options added:
+---------
+
+	-e number: Probability of a record to be erroneous
+	-u number: The extent of error probability in each record
+	-x number: prob of insertion
+	-d number: prob of deletion
+	-r number: prob of character replacement
+	-v number: prob of character swapping
+
+	-w number: prob of token replacement (yet to be implemented)
+
+For Titles data generation, the list of titles should be present in the gzipped "mtitles.gz"
+file. Each Title in the file should not have any leading or trailing spaces. Since 
+we use ":" as delimeter for the data generation, there should not be any ":" character 
+in the Title.
+
+TRY TO RUN this command
+$GENERATOR_DIR/dbgen -n 500 -c 300 -s 54321 -z 0.6 -i -q -e 60 -u 30 -x 20 -d 20 -r 20 -v 10 -w 10 -o output_data.txt
+
+</uoft-note>
+
+
+
+Example:
+	To generate a 1000 records database from which 50% will be selected
+	for duplication and the number of duplicates/selected record
+	will be distributed uniformly between [1,5]:
+
+		dbgen -n 1000 -d 50 -m 5 
+
+	To avoid using the UI:
+
+		dbgen -n 1000 -d 50 -m 5 -q -i -o output.db
+
+	The result will be stored in "output.db"
+
+	To use a previously saved set of parameters:
+		
+		dbgen -p myparams.gen -n 1000 -d 50 -m 5 -q -i -o output.db
+
+	Note:  if using the -p option, it should be the first in the 
+		command-line.
+
+There are a number of other undocumented features in this generator.  The
+interested user is advised to read the zipfgen.c and ui.c code.
+
+--
+Mauricio

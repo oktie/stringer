@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Worksheet ss:Name="Table1">
+  <Table>
+   <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>   <Row>
+    <Cell><Data ss:Type="String">tbl</Data></Cell>
+    <Cell><Data ss:Type="String">simfunc</Data></Cell>
+    <Cell><Data ss:Type="String">thr</Data></Cell>
+    <Cell><Data ss:Type="String">pr</Data></Cell>
+    <Cell><Data ss:Type="String">re</Data></Cell>
+    <Cell><Data ss:Type="String">f1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0441792998662759</Data></Cell>
+    <Cell><Data ss:Type="Number">0.927989299489859</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0843432251607605</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.357984293193717</Data></Cell>
+    <Cell><Data ss:Type="Number">0.663587159387831</Data></Cell>
+    <Cell><Data ss:Type="Number">0.465075212557227</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.680073342402555</Data></Cell>
+    <Cell><Data ss:Type="Number">0.35765833022272</Data></Cell>
+    <Cell><Data ss:Type="Number">0.468779940882683</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.842354017380698</Data></Cell>
+    <Cell><Data ss:Type="Number">0.171861391066318</Data></Cell>
+    <Cell><Data ss:Type="Number">0.285478078900457</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.904655493482309</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0755567998009207</Data></Cell>
+    <Cell><Data ss:Type="Number">0.139465449430138</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.970358814352574</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0386960308572851</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0744241699072689</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.972911963882618</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0268134876197586</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0521886541139432</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0238272987433122</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0465455429300602</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0227696901829041</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0445255474452555</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu1</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0225208411098669</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0440496471160866</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0341279535632744</Data></Cell>
+    <Cell><Data ss:Type="Number">0.968968143165376</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0659336625914231</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.215844584843334</Data></Cell>
+    <Cell><Data ss:Type="Number">0.854201040741211</Data></Cell>
+    <Cell><Data ss:Type="Number">0.344610855094726</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.51789077212806</Data></Cell>
+    <Cell><Data ss:Type="Number">0.680606675974108</Data></Cell>
+    <Cell><Data ss:Type="Number">0.588203032879041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.759265708173723</Data></Cell>
+    <Cell><Data ss:Type="Number">0.484261962177941</Data></Cell>
+    <Cell><Data ss:Type="Number">0.591355561152334</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.903901734104046</Data></Cell>
+    <Cell><Data ss:Type="Number">0.357247112577738</Data></Cell>
+    <Cell><Data ss:Type="Number">0.512098608205221</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.96781540899188</Data></Cell>
+    <Cell><Data ss:Type="Number">0.31009645894149</Data></Cell>
+    <Cell><Data ss:Type="Number">0.469697697890133</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.995011674803651</Data></Cell>
+    <Cell><Data ss:Type="Number">0.297467952785887</Data></Cell>
+    <Cell><Data ss:Type="Number">0.458009673164297</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.290899860388374</Data></Cell>
+    <Cell><Data ss:Type="Number">0.450693147183168</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.28423657824597</Data></Cell>
+    <Cell><Data ss:Type="Number">0.442654543657657</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu2</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.280302068790456</Data></Cell>
+    <Cell><Data ss:Type="Number">0.437868649318463</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0285680236297326</Data></Cell>
+    <Cell><Data ss:Type="Number">0.986062007070982</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0555273190542782</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.178450171752809</Data></Cell>
+    <Cell><Data ss:Type="Number">0.913040522164808</Data></Cell>
+    <Cell><Data ss:Type="Number">0.298549935250079</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.393061534565713</Data></Cell>
+    <Cell><Data ss:Type="Number">0.79150802284471</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52527326256895</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.655859833068911</Data></Cell>
+    <Cell><Data ss:Type="Number">0.646450911068806</Data></Cell>
+    <Cell><Data ss:Type="Number">0.651121383324773</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.88108684070325</Data></Cell>
+    <Cell><Data ss:Type="Number">0.562211041610008</Data></Cell>
+    <Cell><Data ss:Type="Number">0.68642344249367</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.97799200862561</Data></Cell>
+    <Cell><Data ss:Type="Number">0.524204514549905</Data></Cell>
+    <Cell><Data ss:Type="Number">0.682557599097005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.993265993265993</Data></Cell>
+    <Cell><Data ss:Type="Number">0.511456350285559</Data></Cell>
+    <Cell><Data ss:Type="Number">0.675223840405718</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.508328800652706</Data></Cell>
+    <Cell><Data ss:Type="Number">0.67402916450675</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.505881153113952</Data></Cell>
+    <Cell><Data ss:Type="Number">0.671873941801928</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu3</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.502617623062279</Data></Cell>
+    <Cell><Data ss:Type="Number">0.668989389380331</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0275493926210467</Data></Cell>
+    <Cell><Data ss:Type="Number">0.994953429297206</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0536142533317272</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.164145428439567</Data></Cell>
+    <Cell><Data ss:Type="Number">0.975749364944962</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2810168069686</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.403645909717537</Data></Cell>
+    <Cell><Data ss:Type="Number">0.932193056731583</Data></Cell>
+    <Cell><Data ss:Type="Number">0.563355200540369</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.712025316455696</Data></Cell>
+    <Cell><Data ss:Type="Number">0.876375952582557</Data></Cell>
+    <Cell><Data ss:Type="Number">0.785698018674562</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.938169826875515</Data></Cell>
+    <Cell><Data ss:Type="Number">0.847959356477561</Data></Cell>
+    <Cell><Data ss:Type="Number">0.89078650086282</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.987674511368169</Data></Cell>
+    <Cell><Data ss:Type="Number">0.838645215918713</Data></Cell>
+    <Cell><Data ss:Type="Number">0.907079402875721</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.997211219788214</Data></Cell>
+    <Cell><Data ss:Type="Number">0.835664690939881</Data></Cell>
+    <Cell><Data ss:Type="Number">0.909318738828386</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.834140558848434</Data></Cell>
+    <Cell><Data ss:Type="Number">0.909571030229165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.822455546147333</Data></Cell>
+    <Cell><Data ss:Type="Number">0.902579542075528</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu4</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.820931414055885</Data></Cell>
+    <Cell><Data ss:Type="Number">0.901660993620148</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0381730445231389</Data></Cell>
+    <Cell><Data ss:Type="Number">0.996779334617173</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0735301501537542</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.248698669751301</Data></Cell>
+    <Cell><Data ss:Type="Number">0.985125174314364</Data></Cell>
+    <Cell><Data ss:Type="Number">0.397138248817085</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.617829119442023</Data></Cell>
+    <Cell><Data ss:Type="Number">0.941164751975563</Data></Cell>
+    <Cell><Data ss:Type="Number">0.745966999131556</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.892017930735305</Data></Cell>
+    <Cell><Data ss:Type="Number">0.819277508466698</Data></Cell>
+    <Cell><Data ss:Type="Number">0.854101765316719</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.973370596920481</Data></Cell>
+    <Cell><Data ss:Type="Number">0.612889302078491</Data></Cell>
+    <Cell><Data ss:Type="Number">0.752169838229901</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.992030521407376</Data></Cell>
+    <Cell><Data ss:Type="Number">0.388505212829537</Data></Cell>
+    <Cell><Data ss:Type="Number">0.558347052227233</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.995285983658077</Data></Cell>
+    <Cell><Data ss:Type="Number">0.210306129225048</Data></Cell>
+    <Cell><Data ss:Type="Number">0.34723973466367</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.100703898001195</Data></Cell>
+    <Cell><Data ss:Type="Number">0.182980905553377</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0575735440600306</Data></Cell>
+    <Cell><Data ss:Type="Number">0.108878563355519</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu5</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0488412245169002</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0931336857766944</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0316999603618564</Data></Cell>
+    <Cell><Data ss:Type="Number">0.999556262249011</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0614510597812805</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.173120772822743</Data></Cell>
+    <Cell><Data ss:Type="Number">0.996671966867581</Data></Cell>
+    <Cell><Data ss:Type="Number">0.295000328349714</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.431215811409221</Data></Cell>
+    <Cell><Data ss:Type="Number">0.979440150870835</Data></Cell>
+    <Cell><Data ss:Type="Number">0.598799552375462</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.746308205311421</Data></Cell>
+    <Cell><Data ss:Type="Number">0.926931183670451</Data></Cell>
+    <Cell><Data ss:Type="Number">0.826870742689383</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.941171466246969</Data></Cell>
+    <Cell><Data ss:Type="Number">0.818178456532189</Data></Cell>
+    <Cell><Data ss:Type="Number">0.875375850609274</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.980841018884497</Data></Cell>
+    <Cell><Data ss:Type="Number">0.660688533076952</Data></Cell>
+    <Cell><Data ss:Type="Number">0.789544620959367</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.993959243085881</Data></Cell>
+    <Cell><Data ss:Type="Number">0.505010538771586</Data></Cell>
+    <Cell><Data ss:Type="Number">0.669739842581468</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0.999425837320574</Data></Cell>
+    <Cell><Data ss:Type="Number">0.386199755944237</Data></Cell>
+    <Cell><Data ss:Type="Number">0.557117328567999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.333838701327515</Data></Cell>
+    <Cell><Data ss:Type="Number">0.500568323584043</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu6</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.32148800059165</Data></Cell>
+    <Cell><Data ss:Type="Number">0.48655455130537</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0273463019007039</Data></Cell>
+    <Cell><Data ss:Type="Number">0.999968650072105</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0532367304566105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.171719624252038</Data></Cell>
+    <Cell><Data ss:Type="Number">0.997742805191548</Data></Cell>
+    <Cell><Data ss:Type="Number">0.293009874099478</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.441646956740795</Data></Cell>
+    <Cell><Data ss:Type="Number">0.989309674587748</Data></Cell>
+    <Cell><Data ss:Type="Number">0.610676239223617</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.740232721290853</Data></Cell>
+    <Cell><Data ss:Type="Number">0.959276443664179</Data></Cell>
+    <Cell><Data ss:Type="Number">0.835638697344166</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.945146562562033</Data></Cell>
+    <Cell><Data ss:Type="Number">0.895604740109098</Data></Cell>
+    <Cell><Data ss:Type="Number">0.919708969158457</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.992606501584321</Data></Cell>
+    <Cell><Data ss:Type="Number">0.795473070411938</Data></Cell>
+    <Cell><Data ss:Type="Number">0.883172934686135</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.997973190842508</Data></Cell>
+    <Cell><Data ss:Type="Number">0.679196187848768</Data></Cell>
+    <Cell><Data ss:Type="Number">0.808289962131811</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.589598093924384</Data></Cell>
+    <Cell><Data ss:Type="Number">0.741820333300463</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.541350554893724</Data></Cell>
+    <Cell><Data ss:Type="Number">0.702436643208722</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu7</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.530973728760424</Data></Cell>
+    <Cell><Data ss:Type="Number">0.693641855226784</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">softtfidf</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.515375669647113</Data></Cell>
+    <Cell><Data ss:Type="Number">0.924584444900472</Data></Cell>
+    <Cell><Data ss:Type="Number">0.66183545310989</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.028443230285483</Data></Cell>
+    <Cell><Data ss:Type="Number">0.99993159586839</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0553130705413817</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.150120941029052</Data></Cell>
+    <Cell><Data ss:Type="Number">0.999794787605171</Data></Cell>
+    <Cell><Data ss:Type="Number">0.261045449877434</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.35431396846223</Data></Cell>
+    <Cell><Data ss:Type="Number">0.997503249196251</Data></Cell>
+    <Cell><Data ss:Type="Number">0.522895152036718</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.613237538148525</Data></Cell>
+    <Cell><Data ss:Type="Number">0.989636774061153</Data></Cell>
+    <Cell><Data ss:Type="Number">0.757242678809767</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.861693057247259</Data></Cell>
+    <Cell><Data ss:Type="Number">0.967850058143512</Data></Cell>
+    <Cell><Data ss:Type="Number">0.911691742646348</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">0.972725335606222</Data></Cell>
+    <Cell><Data ss:Type="Number">0.936794582392777</Data></Cell>
+    <Cell><Data ss:Type="Number">0.95442191093456</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9956888255899</Data></Cell>
+    <Cell><Data ss:Type="Number">0.884704836172105</Data></Cell>
+    <Cell><Data ss:Type="Number">0.936921600231813</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.853273137697517</Data></Cell>
+    <Cell><Data ss:Type="Number">0.920828258221681</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.839147684520145</Data></Cell>
+    <Cell><Data ss:Type="Number">0.912539750432373</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cu8</Data></Cell>
+    <Cell><Data ss:Type="String">weightedjaccardbm25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.830426157739928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.907358271983258</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,3 @@
+﻿SELECT "medium", simfunc, thr, avg(pr), avg(re), avg(f1) FROM sjoinresults s
+where tbl = "cu3" or tbl = "cu4" or tbl = "cu5" or tbl = "cu6"
+group by simfunc, thr

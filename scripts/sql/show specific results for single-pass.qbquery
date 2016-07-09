@@ -1,0 +1,6 @@
+﻿SELECT alg, class, thr1, avg(pcpr) as apcpr, avg(cpr), avg(pr), avg(re), avg(f1) as af1, avg(ccount) as account
+FROM test.all_results c2
+WHERE thr1>0.29 and thr1<0.31 and class="2-med" and
+      (alg="part" or alg="center" or alg="mergec" )
+GROUP BY alg,class, thr1
+order by alg, class, af1 desc

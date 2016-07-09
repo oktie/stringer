@@ -1,0 +1,4 @@
+﻿SELECT c1.tid as tid1, c2.tid as tid2
+FROM cnamesu.`sign` c1, cnamesu.`sign` c2
+WHERE bit_count((~c1.sign & c2.sign) | (c1.sign & ~c2.sign)) < 1 AND
+      c1.tid <= c2.tid

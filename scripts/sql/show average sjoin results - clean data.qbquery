@@ -1,0 +1,3 @@
+﻿SELECT "clean", simfunc, thr, avg(pr), avg(re), avg(f1) FROM sjoinresults s
+where tbl = "cu7" or tbl = "cu8"
+group by simfunc, thr

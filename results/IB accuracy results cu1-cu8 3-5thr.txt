@@ -1,0 +1,112 @@
+Similarity Join: 0ms
+Tuples in clusters Count: 9322
+Cluster Count: 3986
+Finding Clusters took: 4266ms
+Time for clustering: 4266ms
+
+cu1 - Thr1: 0.3 - Thr2: 0.5
+0.03308388738948606
+0.26374475026898286
+0.9467341740311622
+0.4247045367899352
+0.5863656839675686
+3986
+9322
+Similarity Join: 0ms
+Tuples in clusters Count: 10757
+Cluster Count: 2463
+Finding Clusters took: 4859ms
+Time for clustering: 4859ms
+
+cu2 - Thr1: 0.3 - Thr2: 0.5
+0.11922280716216588
+0.5872915480808292
+0.9351356046317576
+0.6892128279883382
+0.793558132821588
+2463
+10757
+Similarity Join: 0ms
+Tuples in clusters Count: 9903
+Cluster Count: 1674
+Finding Clusters took: 5266ms
+Time for clustering: 5266ms
+
+cu3 - Thr1: 0.3 - Thr2: 0.5
+0.21366693612313514
+0.7153569021402564
+0.9157057245780585
+0.774667740636327
+0.8393029106815376
+1674
+9903
+Similarity Join: 0ms
+Tuples in clusters Count: 8064
+Cluster Count: 854
+Finding Clusters took: 5110ms
+Time for clustering: 5110ms
+
+cu4 - Thr1: 0.3 - Thr2: 0.5
+0.5251979723141058
+0.8970381367124927
+0.8872690371323922
+0.9069957169080155
+0.8970239365311139
+854
+8064
+Similarity Join: 0ms
+Tuples in clusters Count: 6741
+Cluster Count: 842
+Finding Clusters took: 4969ms
+Time for clustering: 4969ms
+
+cu5 - Thr1: 0.3 - Thr2: 0.5
+0.5478182494166015
+0.922525932017557
+0.9086334075143879
+0.9433546837469976
+0.9256685664796902
+842
+6741
+Similarity Join: 0ms
+Tuples in clusters Count: 7099
+Cluster Count: 729
+Finding Clusters took: 5000ms
+Time for clustering: 5000ms
+
+cu6 - Thr1: 0.3 - Thr2: 0.5
+0.6508159711240844
+0.948889685898915
+0.865098630655994
+0.9494584837545126
+0.9053175870163608
+729
+7099
+Similarity Join: 0ms
+Tuples in clusters Count: 7680
+Cluster Count: 678
+Finding Clusters took: 5625ms
+Time for clustering: 5625ms
+
+cu7 - Thr1: 0.3 - Thr2: 0.5
+0.7073521278990618
+0.9591694854311278
+0.8623559215584182
+0.9632055480639569
+0.909995113144772
+678
+7680
+Similarity Join: 0ms
+Tuples in clusters Count: 7435
+Cluster Count: 542
+Finding Clusters took: 5671ms
+Time for clustering: 5671ms
+
+cu8 - Thr1: 0.3 - Thr2: 0.5
+0.9085309413586868
+0.9848475404328165
+0.8386623004392839
+0.9800362976406534
+0.9038545438601403
+542
+7435

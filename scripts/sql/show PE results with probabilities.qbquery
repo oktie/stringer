@@ -1,0 +1,3 @@
+﻿SELECT p.tid, p.id, c.`string`, c.errorp, p.prob FROM probs p, cnamesu.PE c
+where c.tid = p.tid and (errorp = 10 or errorp = 20 or errorp = 30)
+order by id, prob desc, tid desc

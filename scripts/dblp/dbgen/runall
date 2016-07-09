@@ -1,0 +1,40 @@
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -i -q -e 90 -u 30 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-u_90_30_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -i -q -e 50 -u 30 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-u_50_30_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -i -q -e 30 -u 30 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-u_30_30_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -i -q -e 10 -u 30 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-u_10_30_2424241414.txt
+
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -i -q -e 90 -u 10 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-u_90_10_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -i -q -e 50 -u 10 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-u_50_10_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -i -q -e 30 -u 10 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-u_30_10_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -i -q -e 10 -u 10 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-u_10_10_2424241414.txt
+
+cp ~/data/cname-datasets/titles-u_90_30_2424241414.txt ~/data/cname-datasets/CU1.txt
+cp ~/data/cname-datasets/titles-u_50_30_2424241414.txt ~/data/cname-datasets/CU2.txt
+cp ~/data/cname-datasets/titles-u_30_30_2424241414.txt ~/data/cname-datasets/CU3.txt
+cp ~/data/cname-datasets/titles-u_10_30_2424241414.txt ~/data/cname-datasets/CU4.txt
+
+cp ~/data/cname-datasets/titles-u_90_10_2424241414.txt ~/data/cname-datasets/CU5.txt
+cp ~/data/cname-datasets/titles-u_50_10_2424241414.txt ~/data/cname-datasets/CU6.txt
+cp ~/data/cname-datasets/titles-u_30_10_2424241414.txt ~/data/cname-datasets/CU7.txt
+cp ~/data/cname-datasets/titles-u_10_10_2424241414.txt ~/data/cname-datasets/CU8.txt
+
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -z 0.5 -i -q -e 90 -u 30 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-z_90_30_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -z 0.5 -i -q -e 50 -u 30 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-z_50_30_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -z 0.5 -i -q -e 30 -u 30 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-z_30_30_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -z 0.5 -i -q -e 10 -u 30 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-z_10_30_2424241414.txt
+
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -z 0.5 -i -q -e 90 -u 10 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-z_90_10_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -z 0.5 -i -q -e 50 -u 10 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-z_50_10_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -z 0.5 -i -q -e 30 -u 10 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-z_30_10_2424241414.txt
+$GENERATOR_DIR/dbgen -n 5000 -c 500 -s 53421 -z 0.5 -i -q -e 10 -u 10 -x 24 -d 24 -r 24 -v 14 -w 14 -o ~/data/cname-datasets/titles-z_10_10_2424241414.txt
+
+cp ~/data/cname-datasets/titles-z_90_30_2424241414.txt ~/data/cname-datasets/CZ1.txt
+cp ~/data/cname-datasets/titles-z_50_30_2424241414.txt ~/data/cname-datasets/CZ2.txt
+cp ~/data/cname-datasets/titles-z_30_30_2424241414.txt ~/data/cname-datasets/CZ3.txt
+cp ~/data/cname-datasets/titles-z_10_30_2424241414.txt ~/data/cname-datasets/CZ4.txt
+
+cp ~/data/cname-datasets/titles-z_90_10_2424241414.txt ~/data/cname-datasets/CZ5.txt
+cp ~/data/cname-datasets/titles-z_50_10_2424241414.txt ~/data/cname-datasets/CZ6.txt
+cp ~/data/cname-datasets/titles-z_30_10_2424241414.txt ~/data/cname-datasets/CZ7.txt
+cp ~/data/cname-datasets/titles-z_10_10_2424241414.txt ~/data/cname-datasets/CZ8.txt
+

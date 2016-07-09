@@ -1,0 +1,5 @@
+﻿SELECT s1.tid as tid1, s2.tid as tid2
+FROM cnamesu.`sign` s1, cnamesu.`sign` s2
+WHERE  s1.sign = s2.sign and s1.tid < s2.tid
+group by tid1,tid2
+order by tid1,tid2
