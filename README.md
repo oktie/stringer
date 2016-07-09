@@ -6,7 +6,7 @@ The project has now been retired and is no longer actively maintained. The code 
 
 The goal of the project was to implement and experimentally evaluate the effectiveness of various string similarity measures and clustering algorithms for duplicate detection (also referred to as: entity resolution, record linkage, fuzzy string matching, record matching) in relational databases. There is also code for assigning probability scores to duplicate records in each cluster to create a probabilistic database out of dirty data.
 
-The code is made available under Apache 2.0 license. We have tried our best to remove any code that is not developed as a part of the STRINGER project (or copied from other projects) but given that many years have passed since the code's active development, we strongly recommend that you carefully check all the code for other copyright notices or proprietary algorithms or code before relying on it for commercial purposes.
+The code is made available under the MIT license. We have tried our best to remove any code that is not developed as a part of the STRINGER project (or copied from other projects) but given that many years have passed since the code's active development, we strongly recommend that you carefully check all the code for other copyright notices or proprietary algorithms or code before relying on it for commercial purposes.
 
 The following articles describe the details of some the algorithms implemented in this code, along with the results of extensive experiment evaluation of the algorithms:
 
